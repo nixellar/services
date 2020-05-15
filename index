@@ -1,0 +1,129 @@
+<html></body><style>html{background-image:linear-gradient(to left,rgba(2,3,256,0.4),rgba(228,98,28,0.4));  font-family: "Times New Roman", Times, serif;}a,h3{color:brown}h1{color:grey}</style>
+<h1> Nixellar</h1>
+<b>Introduction:</b>
+<i>Please read about the 'Type of Service' you desire, to know more about it.</i><br>We facilitate 6 services. We have divided them into '3 Types' for user convenience.
+<br>
+Namely, these are:
+<ul>
+	<li>from: XLM
+		<ul>
+		<li> to: Nixellar (Type A)</li>
+		<li>to: NIX (Type B)</li>
+		</ul>
+	</li>
+	<li>from: Nixellar
+		<ul>
+		<li>to: XLM (Type C)</li>
+		<li>to: NIX (Type D)</li>
+		</ul>
+	</li>
+	<li>from: NIX
+		<ul>
+		<li>to: Nixellar (Type E)</li>
+		<li>to: XLM (Type F)</li>
+		</ul>
+	</li>
+</ul>
+<h2>Services available on Nixellar:</h2>
+<h3>Type A : [XLM] into [Nixellar]</h3>
+Users can buy 'Nixellar' on the SDEX using their native 'XLM', for example, from StellarPort.io, StellarX.com, StellarTerm.com etc. directly.
+<li>Click <a href="">here</a> for a comprehensive guide.
+
+<h3>Type B : [XLM] into [NIX]</h3>
+Firstly, users need to convert their "XLM" to "Nixellar" (asset-code=NIX & issuer= G...i). Then they may proceed to convert this asset into 'NIX'. Please undertake the following steps:<i><ol>
+<li>It can be done by partaking "Nixellar Service : Type A" discussed above.
+<li>Next, user needs to partake "Nixellar Service : Type D".</ol>
+</i>
+<li>Click <a href="">here</a> for a comprehensive guide.
+
+<h3>Type C : [Nixellar] into [XLM]</h3>
+Users can buy 'XLM' on the SDEX using your 'Nixellar', for example, from StellarPort.io, StellarX.com, StellarTerm.com etc. directly.
+<li>Click <a href="">here</a> for a comprehensive guide.
+
+<h3>Type D : [Nixellar] into [NIX]</h3>
+Users need to return the 'Nixellar' they hold to the issuing account (address=G...i) on the Stellar blockchain, so that we may remove them from circulation. This is a relatively cheaper process.
+<i><ol>
+<li>User needs to communicate their "NIX Platform address" to recieve 'NIX'.</li>
+<li>User has to send their 'Nixellar' to "Nixellar ('NIX') issuing acount, G...i.</li>
+<li>We send the 'NIX' to the users "NIX Platform address".</li>
+</ol></i>
+<li>Click <a href="">here</a> for a comprehensive guide.
+
+<h3>Type E : [NIX] into [Nixellar]</h3>
+
+A user who already posses a Stellar blockchain account can choose "Route 1". We recommend "Route 2" and "Route 3" for users without a Stellar account.
+A user may choose either of the three proposed routes.
+<i>
+<ol><b>Route 1:</b>
+<li>User sends NIX to our NIX-deposit-address, on the NIX Platform.</li>
+<li>User communicates their Stellar address for recieving Nixellar.</li>
+<li>User establishes trustline to Nixellar, on the Stellar blockchain.</li>
+<li>We send Nixellar to users Stellar address.</li>
+</ol>
+
+<ol><b>Route 2:</b>
+<li>User generates a new Stellar Network keypair and communicates their address.</li>
+<li>User sends NIX to our NIX-deposit-address, on the NIX Platform.</li>
+<li>We send XLM on Stellar blockchain account for user.
+<ul>This includes:
+<li>Covering all minimum balance requirements.</li>
+<li>Creating trustline to NIxellar.</li>
+<li>Lock-in balance requirements for assets.</li>
+<li>Little change for executing transactions on the Stellar Network.</li>
+</ul>
+<li>User establishes trustline to Nixellar, on the Stellar blockchain.</li>
+<li>We transfer Nixellar to the Stellar account created by user.</li>
+</ol>
+<ol><b>Route 3:</b>
+<li>User sends NIX to our NIX-deposit-address, on the NIX Platform.</li>
+<li>We create a new Stellar blockchain account for user.
+<ul>This includes:
+<li>Covering all minimum balance requirements.</li>
+<li>Creating trustline to Nixellar.</li>
+<li>Lock-in balance requirements for assets.</li>
+<li>Little change for executing transactions on the Stellar Network.</li>
+</ul>
+<li>User generates a new Stellar Network keypair and communicates their address.</li>
+<li>We transfer ownership of the account created by us.</li>
+</ol></i>
+<li>Click <a href="">here</a> for a comprehensive guide.
+
+<h3>Type F : [NIX] into [XLM]</h3>
+Users need to convert their "NIX" to "NIX asset" - 'Nixellar' issued by G...i first. Then they may directly exchange their "Nixellar" on the Stellar DEX.
+<i><ol><li>It can be done by partaking "Nixellar Service : Type E" discussed above.</li><li>After that, the user may proceed with "Nixellar Service : Type C" described above.</li></ol></i>
+<li>Click <a href="">here</a> for a comprehensive guide.
+
+<hr style="border-top: dashed 1px;" />
+
+
+
+<h2>Communications:</h2>
+Open a fresh <a href="https://github.com/nixellar/requests/issues">issue</a> on "github.com/nixellar/requests/issues" to begin the swap procedure.<br>
+Fill in the issue template or the e-Mail as follows:<br>
+<pre>
+Desired asset:{XLM or NIX}
+Your address:{XLM-address or NIX-address}
+Extra information: {Everything else.}
+</pre>
+Alternatively, you can also e-Mail us on "nixellar" at "protonmail" dot "com" with your request.
+
+
+<hr style="border-top: dashed 1px;" />
+
+
+<h4>Important links:</h4>
+<li>Introduction to <a href="index">services available</a> on Nixellar.</li><br>
+<li>Guides:<ul>
+<li><a href="../guides/TypeA">Type A guide</a>.</li>
+<li><a href="../guides/TypeB">Type B guide</a>.</li>
+<li><a href="../guides/TypeC">Type C guide</a>.</li>
+<li><a href="../guides/TypeD">Type D guide</a>.</li>
+<li><a href="../guides/TypeE">Type E guide</a>.</li>
+<li><a href="../guides/TypeE_Route1">Type E - Route 1 guide</a>.</li>
+<li><a href="../guides/TypeE_Route2">Type E - Route 2 guide</a>.</li>
+<li><a href="../guides/TypeE_Route3">Type E - Route 3 guide</a>.</li>
+<li><a href="../guides/TypeF">Type F guide</a>.</li></ul>
+</li>
+<li>Fees <a href="../fees/index">structures</a>.</li><br>
+<li>Nixellar "<a href="../tos.md">Terms of Service</a>".</li><br>
+<li>Our non-intrusive user-friendly "<a href="../tos.md">Privacy Policy</a>".</li></body></html>
